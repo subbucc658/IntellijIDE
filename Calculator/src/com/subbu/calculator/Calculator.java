@@ -2,7 +2,8 @@ package com.subbu.calculator;
 
 public class Calculator {
     public Integer Add(Integer a , Integer b) {
-        return a+b;
+        int c = a+b;
+        return c;
     }
     public Integer Sub(Integer a , Integer b) {
         return a-b;

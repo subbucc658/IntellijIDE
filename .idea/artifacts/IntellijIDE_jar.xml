@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IntellijIDE:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IntellijIDE_jar</output-path>
+    <root id="archive" name="IntellijIDE.jar">
+      <element id="module-output" name="IntellijIDE" />
+      <element id="module-output" name="Calculator" />
+      <element id="module-output" name="Computer" />
+    </root>
+  </artifact>
+</component>
